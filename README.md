@@ -102,4 +102,4 @@ Mine **Developer Portfolio**  [akkefa.com](http://akkefa.com)
 
 ## Copyright and license
 
-Code and documentation copyright 2018 [akkefa Labs](https://www.akkefa.com/). Code released under the [MIT License](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE).
+Code and documentation copyright 2018 [akkefa Labs](https://www.akkefa.com/). Code released under the [MIT License](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE).# portfolio
